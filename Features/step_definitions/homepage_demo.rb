@@ -16,5 +16,4 @@ end
 Then('User should be on Google homepage') do
   title = browser.get.title
   puts title
-
   end
